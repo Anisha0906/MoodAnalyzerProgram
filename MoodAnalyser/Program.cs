@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MoodAnalyszerProgram
+namespace MoodAnalyser
 {
     public class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to Mood Analyzer Problem");
+            Console.WriteLine("Welcome To Mood Analyser Program ");
         }
     }
 }

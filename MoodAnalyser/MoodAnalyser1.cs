@@ -4,12 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MoodAnalyszerProgram
+namespace MoodAnalyser
 {
-    public class MoodAnalyzer
+    public class MoodAnalyser1
     {
         private string Message;
-        public MoodAnalyzer(string message)
+        public MoodAnalyser1(string message)
         {
             this.Message = message;
         }
